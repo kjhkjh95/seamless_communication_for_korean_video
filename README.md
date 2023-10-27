@@ -8,3 +8,5 @@ MP4 to 16 kHz WAV Conversion: Prepare your audio inputs for Seamless Communicati
 Performance Comparison: Evaluate the efficacy of Medium vs Large models in Korean Speech-to-Text.
 Prediction Examples: Sample code to help you get started with making predictions.
 
+
+Referenced repository: [Seamless Communication by Facebook Research](https://github.com/facebookresearch/seamless_communication)
